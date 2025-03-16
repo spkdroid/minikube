@@ -1,5 +1,3 @@
-# minikube
-
 # Kubernetes Setup on Windows Using Minikube
 
 ## Prerequisites
@@ -122,8 +120,3 @@ Find the service URL:
 ```powershell
 minikube service nginx-deployment --url
 ```
-Open the displayed URL in your browser.
-
-## Conclusion
-You've successfully set up Kubernetes on Windows using Minikube and deployed an Nginx container in two ways: as a simple standalone pod and as a scalable deployment. 🎉
-
